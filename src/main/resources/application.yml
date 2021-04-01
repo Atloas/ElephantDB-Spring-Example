@@ -1,0 +1,7 @@
+spring:
+  datasource:
+#    driver-class-name: org.postgresql.Driver
+    username: acjmjilj
+    password: bh1qY_fCQqE99O2SRqHaAqxMX68yKCfU
+    url: jdbc:postgresql://tai.db.elephantsql.com:5432/acjmjilj
+    maxActive: 1
